@@ -1,4 +1,4 @@
-# AirPods Battery CLI 2.3
+# AirPods Battery CLI 2.3.1
 ## Copyright 2017 Dustin Kerr & Daniel Jones, All Rights Reserved.
 ## Released under the MIT License.
 
